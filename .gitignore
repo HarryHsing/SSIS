@@ -41,3 +41,8 @@ dist/
 eval.sh
 
 *.DS_Store
+AdelaiDet_ssis.egg-info/dependency_links.txt
+AdelaiDet_ssis.egg-info/PKG-INFO
+AdelaiDet_ssis.egg-info/requires.txt
+AdelaiDet_ssis.egg-info/SOURCES.txt
+AdelaiDet_ssis.egg-info/top_level.txt
