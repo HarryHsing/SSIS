@@ -2,4 +2,5 @@ scikit-image
 numpy
 kornia==0.5.6
 pycocotools
-git+https://github.com/stevewongv/InstanceShadowDetection.git#subdirectory=PythonAPI
+git+https://github.com/stevewongv/InstanceShadowDetection.git@50764eb336f3194db382054fe537956dd8449c01#subdirectory=PythonAPI
+opencv-contrib-python
